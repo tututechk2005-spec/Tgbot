@@ -1,0 +1,4 @@
+python-telegram-bot==21.6
+binance-connector==3.7.0
+cryptography==42.0.8
+psutil==6.0.0
